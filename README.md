@@ -49,4 +49,5 @@ Implement a RESTful API with the following endpoints:
     "preferences":"entertainment"
     }
 
-It has validations for invalid inputs.# RestAPInews
+It has validations for invalid inputs.
+# News-API-with-Register-Login
